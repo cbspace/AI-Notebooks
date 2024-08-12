@@ -4,7 +4,6 @@
 
 Kaggle - Kaggle competition notebooks
 
-Text Translation and Sentiment Analysis - Udacity projct utilising pretrained transformer models from HuggingSpace to translate movie
-reviews and perform sentiment analysis
+LLMs - Large Language models such as GPTs and RAG models
 
 Utils - Utilities and other useful code
